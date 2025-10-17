@@ -14,6 +14,16 @@ It demonstrates fundamental principles of **digital signal processing (DSP)**, i
 - Reconstruct the clean signal and visualize transformations.
 
 ---
+## 🧪 Example Output
+- **Input:** Noisy audio sample (e.g., Moonlight Sonata with static)
+- **Output:** Enhanced, noise-reduced version with smoothed spectrum  
+- **Visualizations:**  
+  - Time-domain waveform (before & after filtering)  
+  - Frequency spectrum comparison  
+
+<img width="857" height="569" alt="plots_clear" src="https://github.com/user-attachments/assets/16b39a18-0d53-4aca-9b2a-1877fc2fa0bc" />
+
+---
 
 ## 🛠️ Tech Stack
 **Language:** Python  
